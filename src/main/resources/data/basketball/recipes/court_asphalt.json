@@ -1,0 +1,21 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "minecraft:black_concrete"
+  },
+  {
+   "item": "minecraft:black_concrete"
+  },
+  {
+   "item": "minecraft:gravel"
+  },
+  {
+   "item": "minecraft:gravel"
+  }
+ ],
+ "result": {
+  "item": "basketball:court_asphalt",
+  "count": 4
+ }
+}

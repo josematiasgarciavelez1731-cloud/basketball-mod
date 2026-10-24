@@ -1,0 +1,22 @@
+{
+ "item.basketball.basketball": "Balon de baloncesto",
+ "block.basketball.hoop": "Aro de baloncesto",
+ "block.basketball.court": "Cancha de parquet (madera)",
+ "block.basketball.court_line": "Linea de cancha",
+ "entity.basketball.basketball": "Balon",
+ "key.categories.basketball": "Baloncesto",
+ "key.basketball.dribble": "Driblar (mantener)",
+ "key.basketball.cycle": "Cambiar movimiento",
+ "key.basketball.move": "Hacer movimiento",
+ "block.basketball.scoreboard": "Pantalla de marcador",
+ "block.basketball.court_concrete": "Cancha de cemento",
+ "block.basketball.court_asphalt": "Cancha de asfalto",
+ "block.basketball.court_rubber": "Cancha de goma",
+ "block.basketball.coin_ore": "Mena de monedas",
+ "item.basketball.coin": "Moneda de baloncesto",
+ "item.basketball.shoes_rookie": "Zapatillas Novato",
+ "item.basketball.shoes_street": "Zapatillas Street",
+ "item.basketball.shoes_pro": "Zapatillas Pro",
+ "item.basketball.shoes_allstar": "Zapatillas All-Star",
+ "item.basketball.shoes_legend": "Zapatillas Leyenda"
+}

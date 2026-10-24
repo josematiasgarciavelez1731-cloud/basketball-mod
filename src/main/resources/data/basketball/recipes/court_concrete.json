@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "CC",
+  "CC"
+ ],
+ "key": {
+  "C": {
+   "item": "minecraft:light_gray_concrete"
+  }
+ },
+ "result": {
+  "item": "basketball:court_concrete",
+  "count": 4
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "basketball:block/hoop",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "basketball:block/hoop",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "basketball:block/hoop",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "basketball:block/hoop",
+   "y": 270
+  }
+ }
+}

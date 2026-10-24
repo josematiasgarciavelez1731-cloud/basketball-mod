@@ -1,0 +1,22 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "WWW",
+  "IOI",
+  " I "
+ ],
+ "key": {
+  "W": {
+   "item": "minecraft:white_wool"
+  },
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "O": {
+   "item": "minecraft:orange_dye"
+  }
+ },
+ "result": {
+  "item": "basketball:hoop"
+ }
+}

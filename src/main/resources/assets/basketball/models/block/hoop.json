@@ -1,0 +1,201 @@
+{
+ "textures": {
+  "board": "basketball:block/hoop_board",
+  "rim": "basketball:block/hoop_rim",
+  "particle": "#rim"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    14
+   ],
+   "to": [
+    16,
+    14,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#board"
+    },
+    "south": {
+     "texture": "#board"
+    },
+    "east": {
+     "texture": "#board"
+    },
+    "west": {
+     "texture": "#board"
+    },
+    "up": {
+     "texture": "#board"
+    },
+    "down": {
+     "texture": "#board"
+    }
+   }
+  },
+  {
+   "from": [
+    7,
+    2,
+    11
+   ],
+   "to": [
+    9,
+    3,
+    14
+   ],
+   "faces": {
+    "north": {
+     "texture": "#rim"
+    },
+    "south": {
+     "texture": "#rim"
+    },
+    "east": {
+     "texture": "#rim"
+    },
+    "west": {
+     "texture": "#rim"
+    },
+    "up": {
+     "texture": "#rim"
+    },
+    "down": {
+     "texture": "#rim"
+    }
+   }
+  },
+  {
+   "from": [
+    3,
+    2,
+    2
+   ],
+   "to": [
+    13,
+    3,
+    3
+   ],
+   "faces": {
+    "north": {
+     "texture": "#rim"
+    },
+    "south": {
+     "texture": "#rim"
+    },
+    "east": {
+     "texture": "#rim"
+    },
+    "west": {
+     "texture": "#rim"
+    },
+    "up": {
+     "texture": "#rim"
+    },
+    "down": {
+     "texture": "#rim"
+    }
+   }
+  },
+  {
+   "from": [
+    3,
+    2,
+    10
+   ],
+   "to": [
+    13,
+    3,
+    11
+   ],
+   "faces": {
+    "north": {
+     "texture": "#rim"
+    },
+    "south": {
+     "texture": "#rim"
+    },
+    "east": {
+     "texture": "#rim"
+    },
+    "west": {
+     "texture": "#rim"
+    },
+    "up": {
+     "texture": "#rim"
+    },
+    "down": {
+     "texture": "#rim"
+    }
+   }
+  },
+  {
+   "from": [
+    3,
+    2,
+    3
+   ],
+   "to": [
+    4,
+    3,
+    10
+   ],
+   "faces": {
+    "north": {
+     "texture": "#rim"
+    },
+    "south": {
+     "texture": "#rim"
+    },
+    "east": {
+     "texture": "#rim"
+    },
+    "west": {
+     "texture": "#rim"
+    },
+    "up": {
+     "texture": "#rim"
+    },
+    "down": {
+     "texture": "#rim"
+    }
+   }
+  },
+  {
+   "from": [
+    12,
+    2,
+    3
+   ],
+   "to": [
+    13,
+    3,
+    10
+   ],
+   "faces": {
+    "north": {
+     "texture": "#rim"
+    },
+    "south": {
+     "texture": "#rim"
+    },
+    "east": {
+     "texture": "#rim"
+    },
+    "west": {
+     "texture": "#rim"
+    },
+    "up": {
+     "texture": "#rim"
+    },
+    "down": {
+     "texture": "#rim"
+    }
+   }
+  }
+ ]
+}

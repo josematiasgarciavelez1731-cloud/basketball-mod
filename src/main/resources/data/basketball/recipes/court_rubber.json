@@ -1,0 +1,21 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "minecraft:blue_concrete"
+  },
+  {
+   "item": "minecraft:blue_concrete"
+  },
+  {
+   "item": "minecraft:blue_concrete"
+  },
+  {
+   "item": "minecraft:slime_ball"
+  }
+ ],
+ "result": {
+  "item": "basketball:court_rubber",
+  "count": 4
+ }
+}

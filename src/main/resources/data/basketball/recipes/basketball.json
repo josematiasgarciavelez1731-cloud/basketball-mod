@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "LLL",
+  "LOL",
+  "LLL"
+ ],
+ "key": {
+  "L": {
+   "item": "minecraft:leather"
+  },
+  "O": {
+   "item": "minecraft:orange_dye"
+  }
+ },
+ "result": {
+  "item": "basketball:basketball"
+ }
+}

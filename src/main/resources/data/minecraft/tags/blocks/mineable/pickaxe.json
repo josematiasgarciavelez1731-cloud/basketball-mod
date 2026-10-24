@@ -1,0 +1,10 @@
+{
+ "replace": false,
+ "values": [
+  "basketball:coin_ore",
+  "basketball:court_concrete",
+  "basketball:court_asphalt",
+  "basketball:hoop",
+  "basketball:scoreboard"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "minecraft:oak_planks"
+  },
+  {
+   "item": "minecraft:oak_planks"
+  },
+  {
+   "item": "minecraft:oak_planks"
+  },
+  {
+   "item": "minecraft:oak_planks"
+  },
+  {
+   "item": "minecraft:orange_dye"
+  }
+ ],
+ "result": {
+  "item": "basketball:court",
+  "count": 4
+ }
+}

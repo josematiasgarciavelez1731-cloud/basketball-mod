@@ -1,0 +1,22 @@
+{
+ "item.basketball.basketball": "Basketball",
+ "block.basketball.hoop": "Basketball Hoop",
+ "block.basketball.court": "Parquet Court",
+ "block.basketball.court_line": "Court Line",
+ "entity.basketball.basketball": "Basketball",
+ "key.categories.basketball": "Basketball",
+ "key.basketball.dribble": "Dribble (hold)",
+ "key.basketball.cycle": "Cycle move",
+ "key.basketball.move": "Perform move",
+ "block.basketball.scoreboard": "Scoreboard Screen",
+ "block.basketball.court_concrete": "Concrete Court",
+ "block.basketball.court_asphalt": "Asphalt Court",
+ "block.basketball.court_rubber": "Rubber Court",
+ "block.basketball.coin_ore": "Coin Ore",
+ "item.basketball.coin": "Basketball Coin",
+ "item.basketball.shoes_rookie": "Rookie Sneakers",
+ "item.basketball.shoes_street": "Street Sneakers",
+ "item.basketball.shoes_pro": "Pro Sneakers",
+ "item.basketball.shoes_allstar": "All-Star Sneakers",
+ "item.basketball.shoes_legend": "Legend Sneakers"
+}
